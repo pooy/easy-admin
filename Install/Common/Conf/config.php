@@ -9,6 +9,8 @@ $appConfig = array(
     'MODULE_ALLOW_LIST' => array('Home'),
     'DEFAULT_MODULE' => 'Home',
 
+    'url_model'=> '0',
+    
     // 开启布局
     'LAYOUT_ON' => true,
     'LAYOUT_NAME' => 'Common/layout'    
